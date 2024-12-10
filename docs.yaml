@@ -1,0 +1,7 @@
+name: gogeta
+description: A CLI tool for running load tests on GraphQL services that uses the
+  popular load testing tool Vegeta as its foundation.
+tags:
+  - Go
+  - Load testing
+  - Testing
